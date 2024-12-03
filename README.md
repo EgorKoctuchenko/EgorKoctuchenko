@@ -32,8 +32,8 @@ I'm actively learning and planning to enhance my knowledge in the following tech
 - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ## Favorite Projects:
-🎵 Music Player — a project using Dropbox as a database, where I implemented add, delete, and update functions.
-🍴 Calorie Tracker — my first project in React, a great starting point for mastering the framework.
+- 🎵 Music Player — a project using Dropbox as a database, where I implemented add, delete, and update functions.
+- 🍴 Calorie Tracker — my first project in React, a great starting point for mastering the framework.
 
 ## What drives me?
 🌟 The joy of creating and improving what I've built. For me, coding is a creative playground!
