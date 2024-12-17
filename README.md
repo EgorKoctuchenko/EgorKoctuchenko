@@ -21,6 +21,7 @@ I'm a developer continuously learning and improving my skills. For me, coding is
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![Howler](https://img.shields.io/badge/Howler.js-20232A?style=flat&logo=&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ---
 
@@ -29,7 +30,6 @@ I'm actively learning and planning to enhance my knowledge in the following tech
 
 - ![React Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 - ![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat&logo=reactrouter&logoColor=white)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ## Favorite Projects:
 - 🎵 Music Player — a project using Dropbox as a database, where I implemented add, delete, and update functions.
