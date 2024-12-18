@@ -30,6 +30,8 @@ I'm actively learning and planning to enhance my knowledge in the following tech
 
 - ![React Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 - ![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat&logo=reactrouter&logoColor=white)
+- ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+
 
 ## Favorite Projects:
 - 🎵 Music Player — a project using Dropbox as a database, where I implemented add, delete, and update functions.
